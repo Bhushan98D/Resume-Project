@@ -1,5 +1,13 @@
-streamlit
+streamlit>=1.20.0
+pandas
+numpy
+scikit-learn
+matplotlib
 plotly
+python-dotenv
+psycopg2-binary   # if you connect to PostgreSQL directly
+supabase          # if you use Supabase python client (check exact package name you used)
+
 
 # Core dependencies
 flask==2.3.3

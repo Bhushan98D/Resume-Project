@@ -1,0 +1,48 @@
+Software Engineer - Full Stack Developer
+
+Company: TechCorp Inc.
+Location: San Francisco, CA (Remote OK)
+Salary: $120,000 - $150,000
+Job Type: Full-time
+
+About the Role:
+We are looking for a talented Full Stack Developer to join our growing engineering team. You will be responsible for developing and maintaining our web applications, working with both frontend and backend technologies.
+
+Key Responsibilities:
+• Develop and maintain web applications using modern technologies
+• Collaborate with cross-functional teams to deliver high-quality software
+• Write clean, maintainable, and efficient code
+• Participate in code reviews and technical discussions
+• Troubleshoot and debug applications
+• Stay up-to-date with emerging technologies and best practices
+
+Requirements:
+• Bachelor's degree in Computer Science or related field
+• 3-5 years of experience in full-stack web development
+• Strong proficiency in Python and JavaScript
+• Experience with React or similar frontend framework
+• Knowledge of Django, Flask, or similar backend framework
+• Experience with PostgreSQL or MySQL
+• Familiarity with AWS or similar cloud platforms
+• Experience with Git and version control
+• Strong problem-solving and communication skills
+
+Nice to Have:
+• Experience with Docker and Kubernetes
+• Knowledge of machine learning libraries (Pandas, NumPy, Scikit-learn)
+• Previous startup experience
+• Experience with microservices architecture
+• Knowledge of CI/CD pipelines
+• Experience with testing frameworks (Jest, PyTest)
+
+Benefits:
+• Competitive salary and equity
+• Health, dental, and vision insurance
+• 401(k) with company matching
+• Flexible work hours and remote work options
+• Professional development budget
+• Unlimited PTO
+• Stocked kitchen and catered meals
+
+How to Apply:
+Please submit your resume and cover letter through our careers page. Include links to your GitHub profile and any relevant projects.
